@@ -12,3 +12,7 @@
 
 ## Mis estadisticas en Github
 [![Hua´s github stats](https://github-readme-stats.vercel.app/api?username=ruizestada74&show_icons=true&theme=dark)](https://github.com/RUIZESTADA74/RuizEstada74/github-readme-stats)
+
+## Contact:
+[![Gmail Badge](https://img.shields.io/badge/-ruizestada74@gmail.com-c14438?style=flat-square&logo=gmail&logocolor=white&link=mailto:ruizestada74@gmail.com)]
+(mailto:ruizestrada74@gmail.com)
