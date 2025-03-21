@@ -8,7 +8,7 @@
 
 ## Mis Repositorios
 
-[TOKIO SCHOOL]([https://github.com/RUIZESTADA74/MiPrimerRepositorio](https://github.com/RUIZESTADA74/AndroidModulo1Practica1.git)) Primera Practica Android.
+[TOKIO SCHOOL]([https://github.com/RUIZESTADA74/AndroidModulo1Practica1.git)] Primera Practica Android.
 
 ## Mis estadisticas en Github
 [![Hua´s github stats](https://github-readme-stats.vercel.app/api?username=ruizestada74&show_icons=true&theme=dark)](https://github.com/RUIZESTADA74/RuizEstada74/github-readme-stats)
